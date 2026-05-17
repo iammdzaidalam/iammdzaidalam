@@ -1,6 +1,6 @@
 BIT Mesra CSE'27 | Head of Content [IEEE Student-branch](https://www.ieeebitmesra.in/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-iammdzaidalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaid-alam)](https://www.linkedin.com/in/zaid-alam) [![Gmail Badge](https://img.shields.io/badge/-iammdzaidalam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iammdzaidalam@gmail.com)](mailto:iammdzaidalam@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://zaid-alam.vercel.app)](https://zaid-alam.vercel.app)
+[![Linkedin Badge](https://img.shields.io/badge/-zaid--alam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaid-alam)](https://www.linkedin.com/in/zaid-alam) [![Gmail Badge](https://img.shields.io/badge/-iammdzaidalam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iammdzaidalam@gmail.com)](mailto:iammdzaidalam@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://zaid-alam.vercel.app)](https://zaid-alam.vercel.app)
 
 ### Works
 
