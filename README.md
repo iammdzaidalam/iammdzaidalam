@@ -6,7 +6,7 @@ BIT Mesra CSE'27 | Head of Content [IEEE Student-branch](https://www.ieeebitmesr
 
 **Open Source**
 
-1. **[boa-dev/boa](https://github.com/boa-dev/boa)**: Contributed 9 PRs with a 78% merge rate, shipping fixes and performance improvements across runtime, JSON handling, module loading, and CI hardening.
+1. **[boa-dev/boa](https://github.com/boa-dev/boa)**: Contributed 10 PRs with a 80% merge rate, shipping fixes and performance improvements across runtime, JSON handling, module loading, and CI hardening.
 
 2. **[hyperledger-identus/sdk-ts](https://github.com/hyperledger-identus/sdk-ts)**: Authored 7 PRs, improving DID and SD-JWT flows through rollback handling, serialization fixes, and error propagation.
 
