@@ -16,10 +16,6 @@ BIT Mesra CSE'27 | Head of Content [IEEE Student-branch](https://www.ieeebitmesr
 
 2. **[Mooc Mate](https://github.com/iammdzaidalam/mooc-mate)**: Built a university-aligned quiz platform with Learning Mode and Test Mode simulations, scaling to 2,100+ visitors and 8,800+ page views with a 32% bounce rate in the first 14 days.
 
-**Volunteering**
-
-1. **[Finance Club BIT Mesra](https://github.com/Finance-Club-Bit-Mesra/Finance-Club-New-Website-2024)**: Led a 7-member team to develop the official website, driving frontend structure, UI implementation, and feature delivery for the club’s public platform.
-
 ### Achievements
 
 1. **Codeforces**: Specialist rank with a peak rating of 1427.
