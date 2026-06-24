@@ -10,7 +10,11 @@ BIT Mesra CSE'27 | Head of Content [IEEE Student-branch](https://www.ieeebitmesr
 
 2. **[hyperledger-identus/sdk-ts](https://github.com/hyperledger-identus/sdk-ts)**: Authored 7 PRs, improving DID and SD-JWT flows through rollback handling, serialization fixes, and error propagation.
 
-**Projects**
+**Internship**
+
+1. **[Bharat Coking Coal Ltd](https://bcclweb.in)**: Built a full stack OPD queue management system for BCCL, handling 500+ concurrent patients and replacing paper-based hospital registration with digitized records and token tracking.
+
+### Projects
 
 1. **[Critique](https://github.com/iammdzaidalam/project-critique)**: Built a Generative AI platform using Next.js 16 and server actions to synthesize technical developer personas from multi-source API data with secure server-side orchestration.
 
