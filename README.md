@@ -6,7 +6,7 @@
 
 **Open Source**
 
-1. **[Jaeger](https://github.com/jaegertracing/jaeger)** (CNCF): 16 PRs, 9 merged, 2,500+ lines changed.
+1. **[Jaeger](https://github.com/jaegertracing/jaeger)** (CNCF): 17+ PRs, 10+ merged, 2,500+ lines changed.
    * **Key Contributions:**
      * Delivered the [RFC 0006 Elasticsearch version-detection milestone](https://github.com/jaegertracing/jaeger/pull/8938) across 25 files.
      * Fixed crash-causing panics in [ClickHouse trace-ID decoding](https://github.com/jaegertracing/jaeger/pull/8935) and [Prometheus config validation](https://github.com/jaegertracing/jaeger/pull/8711).
