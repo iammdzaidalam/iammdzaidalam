@@ -16,7 +16,7 @@
 
 **Internships**
 
-1. **[Mentamind](https://mentamind.com)**: CRM routing inbound leads through 13 AI agents with real-time qualification scoring. Next.js, FastAPI, PostgreSQL, Redis.
+1. **[STAIL Labs](https://stail-labs.vercel.app/)**: CRM routing inbound leads through 13 AI agents with real-time qualification scoring. Next.js, FastAPI, PostgreSQL, Redis.
 2. **[Bharat Coking Coal Ltd](https://bcclweb.in)**: Full-stack OPD queue system replacing paper hospital registration with digital records.
 
 **Personal**
