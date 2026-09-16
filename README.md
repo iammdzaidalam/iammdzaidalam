@@ -1,4 +1,4 @@
-**Open Source** 27+ merged PRs, Specialist @Codeforces, Knight @LeetCode | BIT Mesra CSE'27
+**Open Source** 20+ merged PRs, Specialist @Codeforces, Knight @LeetCode | BIT Mesra CSE'27
 
 [![Linkedin Badge](https://img.shields.io/badge/-zaid--alam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaid-alam)](https://www.linkedin.com/in/zaid-alam) [![Codeforces Badge](https://img.shields.io/badge/-Specialist%20(1514)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/zaidddiebuoy)](https://codeforces.com/profile/zaidddiebuoy) [![LeetCode Badge](https://img.shields.io/badge/-Knight%20(1861)-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/zaidddiebuoy/)](https://leetcode.com/u/zaidddiebuoy/) [![Gmail Badge](https://img.shields.io/badge/-iammdzaidalam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iammdzaidalam@gmail.com)](mailto:iammdzaidalam@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-zaidalam.dev-000000?style=flat-square&logo=vercel&logoColor=white&link=https://zaidalam.dev)](https://zaidalam.dev)
 
@@ -6,7 +6,7 @@
 
 **Open Source**
 
-1. **[Jaeger](https://github.com/jaegertracing/jaeger)** (CNCF): 17+ PRs, 10+ merged, 2,500+ lines changed.
+1. **[Jaeger](https://github.com/jaegertracing/jaeger)** (CNCF): 19+ PRs, 12+ merged, 2,500+ lines changed.
    * **Key Contributions:**
      * Delivered the [RFC 0006 Elasticsearch version-detection milestone](https://github.com/jaegertracing/jaeger/pull/8938) across 25 files.
      * Fixed crash-causing panics in [ClickHouse trace-ID decoding](https://github.com/jaegertracing/jaeger/pull/8935) and [Prometheus config validation](https://github.com/jaegertracing/jaeger/pull/8711).
